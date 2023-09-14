@@ -1,0 +1,6 @@
+himmel.jpg
+---
+Du kan pluseligt ikke trække vejret. Du falder livløst til jorden. Du drømmer en drøm. Om en fisk. Den taler. Du kan ikke se fisken, kun høre den. Den siger: "Har Du samlet de 5 magiske figurer?" Du ved ikke, hvad den mener med "magiske figurer", men den har sikkert en pointe. Hvad svarer du?
+---
+Svar ja - fisk2
+Svar nej - intro

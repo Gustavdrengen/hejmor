@@ -1,0 +1,6 @@
+Skabelsesskoven.png
+---
+Du vågner. Du rejser dig op. Det er nat. Du føler dig svimmel. Du ved ikke hvor du er. Du er helt sikker på at du har været her før, men du ved hvornår. Du ved ikke hvem du er, men en ting ved du. Du skal væk herfra! Du er dog meget træt, så du overvejer at lægge dig til at sove. hvad gør du?
+---
+Læg dig til at sove - venter
+Kom væk herfra - leder_efter_udgang

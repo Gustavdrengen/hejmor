@@ -1,0 +1,6 @@
+Skabelsesskoven.png
+---
+Du beslutter dig for, at finde ud af skoven. Du bevæger dig fremad. Skovbunden er fyldt med grene og sten. Du hører pludslig en høj lyd. Den kommer bagfra. Du vender dig hurtigt om, og det går op for dig at det bare er en ugle. Du fortsætter gennem skoven, indtil du hører skridt. Du stopper hurtigt op, for at lytte. Det lyder som en person. Du overvejer om du skal gå hen og spørge, hvor du er, eller om du skal gå den anden vej. Hvad gør du?
+---
+Gå den anden vej - gå_den_anden_vej
+Gå hen til personen - gå_hen_til_dem_nat

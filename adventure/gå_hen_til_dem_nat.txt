@@ -1,0 +1,6 @@
+Skabelsesskoven.png
+---
+Du beslutter dig for at gå hen til personen. Du går med hastige skridt, indtil du når en lille sti. Personen, som er en høj mand, stopper op og kigger på dig. "Hvem der?", siger han. "Hej." "Hvem er du?" "Det ved jeg ikke." "Hvad mener du med det?" "Jeg vågnede ude i skoven og jeg ved ikke hvem jeg er." "Vis mig din nakke!" Du tvivler på hvorfor han vil se din nakke, men du regner med, at han har en god grund, så du viser ham den. "OMG du er den udvalgte!" "Hvem er den udvalgte?" "Profetien siger, at den udvalgte vil vågne i Skabelsesskoven med en grøn plet på nakken." "Så jeg er den udvalgte?" "Profetien siger at du vil dræbe Diabolus." "???" "Diabolus er den ondeste dude i hele universet." "Hvordan skal jeg dræbe ham?" "Du skal rejse til Gehenna, hvor Diabolus bor." "Og hvor der det?" "Gehenna ligger et par dages rejse væk. Jeg kan tage med dig. Jeg hedder forresten Teloma." Du ved ikke om du vil acceptere Telomas tilbud, eller om du vil fortsætte alene. Hvad gør du?
+---
+Stol på Teloma og rejs med ham - dræbt_af_teloma
+Rejs alene - rejs_alene

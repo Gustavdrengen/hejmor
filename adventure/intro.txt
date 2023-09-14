@@ -1,0 +1,6 @@
+﻿Skabelsesskoven.png
+---
+Du åbner øjnene. Det er nat. Du føler dig svimmel. Du kan mærke at du ligger på jorden. Du er forvirret. Du ved ikke hvor eller hvem du er. Du føler at du har været her før, men du kan ikke huske det. Du prøver at komme i tanke om hvem du er, men intet dukker op. Du rejser dig op. Det ligner at du befinder dig i en skov. Du kan se træer så langt øjet rækker, hvilket ikke er særlig langt siden at det er nat. Hvad gør du?
+---
+Læg dig ned og vent til, at det bliver morgen - venter
+Prøv at finde ud af skoven - leder_efter_udgang

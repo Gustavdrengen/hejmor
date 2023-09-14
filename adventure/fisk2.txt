@@ -1,0 +1,5 @@
+fisk.jpg
+---
+Du vågner. Du står i et hvidt rum. Du er iført en grøn stofdragt. Der står et bord foran dig. På bordet er et akvarie. I akvariet er der en fisk. Den er grim. Fisken taler til dig, uden at bevæge munden. Den siger: "Du er den udvalgte. Du skal samle alle de fem figurer, og løse min gåde. Har du gjort dette? Kodeordet er det første bogstav i farven på hver figur (i rækkefølge), f.eks. RGBHS. Svarer du forkert dør du." Du er ekstremt forvirret over hvad fisken lige har sagt.
+---
+Fortsæt - fisk3

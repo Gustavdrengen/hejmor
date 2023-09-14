@@ -1,0 +1,6 @@
+Skabelsesskoven.png
+---
+Du beslutter dig for, at vende om og gå den anden vej. du er bange for, at personen er farlig. Du forstætter gennem skoven med høj hastighed, indtil at du endelig kan se enden af skoven. Det var nok været et par timer siden, at du vågnede op i skovbunden. Nu er du endeligt ude. Da du kommer ud af skoven er månen ved at på ned. Det er fuldmåne. Du kan se noget lys i det fjerne, som ligner en by. Du sætter kurs mod byen. Men inden du når særlig langt, ser du et stort, tykt menneskelignene dyr. Dyret er nok cirka 50 meter væk. Du ved ikke om du burde forsætte hen mod det. Du kunne ligge dig og vente. Hvad gør du?
+---
+Gå hen til det - dræbt_af_trold
+Vent - vent_på_trold

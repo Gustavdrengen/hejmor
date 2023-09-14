@@ -1,0 +1,9 @@
+hospital.jpg
+---
+Du beslutter dig for at kaste akvariet på jorden. Da du tager fat i akvariet, udbrudder fisken "Hvad laver du?!", men du svarer ikke. Du tyrer akvratiet ned på det hvide gulv og dræber fisken.
+Du husker pludseligt alting. Dit tidligerer liv. Du var et menneske på planeten Jorden. Du levede i år 2023. Du havde fødselsdag. Du havde lige spist din morgenmad, men fundet ud af at den var forgiftet. Du blev indlagt på hospitalet, men der var ikke noget de kunne gøre.
+Du vågner. Du ligger i en dejlig blød seng på Rigshospitalet. Lægerne står bukket ind over dig. De er chokeret over hvordan du har overlevet. De fortæller dig, at din familie lige er taget hjem, for at planlægge din begravelse.
+<h1>7 timer senere</h1>
+Du er nu kommet hjem til din familie igen. Alle, men mest hunden, er glad for at se dig. Du er lykkelig over endelig at være hjemme igen🙂.
+---
+Prøv igen - intro
